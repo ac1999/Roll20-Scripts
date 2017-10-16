@@ -1,10 +1,3 @@
-/*
-  Author: J.Downey - Shockthought
-  Date: 10/15/17
-  Note: This is a WIP.
-  Description: This Script is to allow for quick and easy use of hit dice. this code however is designed for use with specfic things in mind.
-  So it may not work for what you want.
-*/
 
 //Example Command: !uhd bob 1
 
